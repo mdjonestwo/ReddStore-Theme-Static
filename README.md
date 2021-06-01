@@ -1,0 +1,1 @@
+# ReddStore-Theme-Static
